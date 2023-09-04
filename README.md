@@ -29,6 +29,6 @@ Hey there! I'm Morgan, a passionate bioinformatician on a journey to unravel the
 
 ## 📫 Connect with Me
 
-📧 Feel free to connect with me on [LinkedIn](www.linkedin.com/in/morgan-johnston-8285291b4) to discuss collaboration, share ideas, or just chat about all things bioinformatics.
+📧 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/morgan-johnston-8285291b4/) to discuss collaboration, share ideas, or just chat about all things bioinformatics.
 
 Happy coding and exploring the secrets of life's code! 🧬👩🏻‍💻
