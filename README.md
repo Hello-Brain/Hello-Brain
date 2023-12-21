@@ -1,34 +1,29 @@
-## 👩🏻‍💻 About Me
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+Hi 👋 My name is Morgan Johnston
+================================
 
-Hey there! I'm Morgan, a passionate bioinformatician on a journey to unravel the mysteries of life through data. My work revolves around harnessing the power of computational tools and data analysis to decode complex genetic and biological puzzles.
+Bioinformatician | Data Analyst | Linux Admin
+---------------------------------------------
 
-🔬 As a bioinformatician:
-- 💡 I'm driven by curiosity and innovation, constantly exploring novel approaches to extract meaningful insights from biological data.
-- 🧬 My expertise lies in leveraging Python, R, and PostgreSQL to wrangle, analyze, and visualize diverse biological datasets.
-- 🌐 I'm enthusiastic about open science and believe in the collaborative spirit of the bioinformatics community.
-- 🤖 I'm a coding enthusiast, always learning and expanding my skills to stay at the forefront of this rapidly evolving field.
+Hello! I'm a passionate Bioinformatics student, deeply fascinated by the intersection of biology and technology. I thrive on exploring the complexities of biological data and am always eager to uncover the stories hidden within.
 
-🛠️ Let's connect and collaborate on exciting bioinformatics projects! Feel free to explore my GitHub repositories and reach out for discussions, contributions, or just a friendly chat.
+* ✉️  You can contact me at [morganbjohnston@gmail.com](mailto:morganbjohnston@gmail.com)
+* 🧠  I'm currently learning Golang
 
-## 🌱 Current Focus
+### Skills
 
-👩🏻‍🔬 Currently, I'm diving deep into:
-- 🐍 Mastering Python for bioinformatics, scripting, and data manipulation.
-- 📊 Exploring R for statistical analysis and visualization of biological data.
-- 📜 Enhancing SQL skills for efficient data management and querying.
-- 🌊 Learning Nextflow to streamline and automate bioinformatics workflows.
+<p align="left">
+<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+</p>
 
-🚀 Join me on this incredible journey of scientific discovery through code!
 
-## 📫 Connect with Me
+### Socials
 
-📧 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/morgan-johnston-8285291b4/) to discuss collaboration, share ideas, or just chat about all things bioinformatics.
+<p align="left"> <a href="https://www.github.com/mobj44" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/morgan-johnston-8285291b4/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-Happy coding and exploring the secrets of life's code! 🧬👩🏻‍💻
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/mobj44"><img src="https://github-readme-stats.vercel.app/api?username=mobj44&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="mobj44's GitHub stats" /></a>
+
+<a href="https://github.com/mobj44" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobj44&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
