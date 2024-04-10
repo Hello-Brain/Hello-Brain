@@ -1,7 +1,7 @@
 Hi 👋 My name is Morgan Johnston
 ================================
 
-Hello! I'm a student double majoring in CS Secure computing emphasis and Bioinformatics, deeply fascinated by the intersection of biology and technology. I thrive on exploring the complexities of biological data and am always eager to uncover the stories hidden within.
+Hello! I'm a student double majoring in CS with a Secure computing emphasis and Bioinformatics, deeply fascinated by the intersection of biology and technology. I thrive on exploring the complexities of biological data and am always eager to uncover the stories hidden within.
 
 * ✉️  You can contact me at [morganbjohnston@gmail.com](mailto:morganbjohnston@gmail.com)
 * 🧠  I'm currently learning Golang
